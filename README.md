@@ -50,13 +50,7 @@ bibtex
 6
 7
 8
-@inproceedings{Zamir2021MPRNet,
-  title={Multi-Stage Progressive Image Restoration},
-  author={Zamir, Syed Waqas and Arora, Aditya and Khan, Salman and Hayat, Munawar and 
-          Khan, Fahad Shahbaz and Yang, Ming-Hsuan and Shao, Ling},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2021},
-  pages={285--294}
+
 }
 Bring clarity back to your images — effortlessly.
 ✨ MPRNet Deblur: Where blur meets its match.
